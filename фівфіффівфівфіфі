@@ -1,0 +1,6 @@
+pip install colorama
+import colorama
+dir(colorama)
+fore: визначає кольори тексту, дозволяє задавати колір для виведення тексту
+back: визначає кольори фону
+Style: Додає стилізацію тексту
